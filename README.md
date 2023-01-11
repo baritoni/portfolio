@@ -24,10 +24,14 @@ Meidän ryhmäämme kuului aluksi 5 henkilöä, mutta yksi jäi pois matkasta ai
 
 # Frontend
 
-Vaikka numeroiden valossa olin menestynyt melko hyvin ohjelmointi kursseilla, koin silti olevani melko "wannabe" -tasolla ohjelmoinnissa. Ehkä voisin kuvailla tätä sillä tavalla, että useasti ymmärsin koodia, kykenin muokkaamaan ja soveltamaan valmista koodia, mutta heikkouteni oli oman koodin kirjoittaminen alusta asti. Koska ryhmämme päätyi valitsemaan frontend frameworkiksi Reactin ja itselläni ei ollut siitä mitään aiempaa kokemusta, aloitin projekin opettelemalla Reactia full stack open kurssin tehtäviä suorittamalla. Tähän käytin aikaa 2 viikkoa. Opin kurssista kyllä Reactia, mutta 2 viikkoa oli liian lyhyt aika itselleni opetella uusi framework. Pidempää aikaa ei tähän ollut projektia silmällä pitäen järkeä käyttää, joten aloitin aloin osallistumaan frontendin tekemiseen lokakuun loppupuolella.
+Vaikka numeroiden valossa olin menestynyt melko hyvin ohjelmointi kursseilla, koin silti olevani melko "wannabe" -tasolla ohjelmoinnissa. Ehkä voisin kuvailla tätä sillä tavalla, että useasti ymmärsin koodia, kykenin muokkaamaan ja soveltamaan valmista koodia, mutta heikkouteni oli oman koodin kirjoittaminen alusta asti. Koska ryhmämme päätyi valitsemaan frontend frameworkiksi Reactin ja itselläni ei ollut siitä mitään aiempaa kokemusta, aloitin projekin opettelemalla Reactia full stack open kurssin tehtäviä suorittamalla. Tähän käytin aikaa 2 viikkoa. Opin kurssista kyllä Reactia, mutta 2 viikkoa oli hieman liian lyhyt aika itselleni opetella uusi framework. Pidempää aikaa ei tähän ollut projektia silmällä pitäen järkeä käyttää, joten aloitin aloin osallistumaan frontendin koodaamiseen lokakuun loppupuolella.
 
-
+Ensimmäisiä aikaansaannoksiani olivat sovelluksen rekisteröinti ja kirjautumissivut. Tarkoituksena oli luoda toiminnallisuus, jonka avulla käyttäjän antamat rekisteröintitiedot menevät AWS cognito palveluun. Tässä onnistuinkin eli sain aikaan toimivat pohjat sekä rekisteröinti, että kirjautumissivulle. Näihin löytyi kuitenkin varsin selkeät tutoriaalit youtubesta joita käytin apuna komponenttien luomiseen.
 ![image](https://user-images.githubusercontent.com/98876593/211802905-17460b4f-37bb-4082-b8b2-18c918f99029.png)
+
+Kopioin UserPoolId:n ja ClientId:n sovelluksemme AWS:n sivuilta Cognito palvelusta 
+![image](https://user-images.githubusercontent.com/98876593/211804659-29b846a7-80c4-4e12-bd2f-e2c76a6d5f18.png)
+
 
 
 
