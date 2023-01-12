@@ -30,7 +30,7 @@ Ensimmäisiä aikaansaannoksiani olivat sovelluksen rekisteröinti ja kirjautumi
 ![image](https://user-images.githubusercontent.com/98876593/211802905-17460b4f-37bb-4082-b8b2-18c918f99029.png)
 
 Kopioin UserPoolId:n ja ClientId:n sovelluksemme AWS:n sivuilta Cognito palvelusta 
-![image](https://user-images.githubusercontent.com/98876593/211804659-29b846a7-80c4-4e12-bd2f-e2c76a6d5f18.png)
+
 Sivu toimi aluksi alkeellisesti niin, että console loggaamalla saimme näkyviin sivulle 
 
 
