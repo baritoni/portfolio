@@ -24,7 +24,7 @@ Meidän ryhmäämme kuului aluksi 5 henkilöä, mutta yksi jäi pois matkasta ai
 
 # Frontend
 
-Vaikka numeroiden valossa olin menestynyt melko hyvin ohjelmointi kursseilla, koin silti olevani melko "wannabe" -tasolla ohjelmoinnissa. Ehkä voisin kuvailla tätä sillä tavalla, että useasti ymmärsin koodia, kykenin muokkaamaan ja soveltamaan valmista koodia, mutta heikkouteni oli oman koodin kirjoittaminen alusta asti. Koska ryhmämme päätyi valitsemaan frontend frameworkiksi Reactin ja itselläni ei ollut siitä mitään aiempaa kokemusta, aloitin projekin opettelemalla Reactia full stack open kurssin tehtäviä suorittamalla. Tähän käytin aikaa 2 viikkoa. Opin kurssista kyllä Reactia, mutta 2 viikkoa oli hieman liian lyhyt aika itselleni opetella uusi framework. Pidempää aikaa ei tähän ollut projektia silmällä pitäen järkeä käyttää, joten aloitin aloin osallistumaan frontendin koodaamiseen lokakuun loppupuolella.
+Vaikka numeroiden valossa olin menestynyt melko hyvin ohjelmointi kursseilla, koin silti olevani melko "wannabe" -tasolla ohjelmoinnissa. Ehkä voisin kuvailla tätä sillä tavalla, että useasti ymmärsin koodia, kykenin muokkaamaan ja soveltamaan valmista koodia, mutta heikkouteni oli oman koodin kirjoittaminen alusta asti. Koska ryhmämme päätyi valitsemaan frontend frameworkiksi Reactin ja itselläni ei ollut siitä mitään aiempaa kokemusta, aloitin projekin opettelemalla Reactia full stack open kurssin tehtäviä suorittamalla. Tähän käytin aikaa 2 viikkoa. Tein lähes kaikki taskit jotka minulle oli määritelty zenhubiin, vain pari aivan viimeistä tehtävää jäi kesken. Opin kurssista kyllä Reactia, mutta 2 viikkoa oli hieman liian lyhyt aika itselleni opetella uusi framework. Pidempää aikaa ei tähän ollut projektia silmällä pitäen järkeä käyttää, joten aloitin aloin osallistumaan frontendin koodaamiseen lokakuun loppupuolella. Tarkoituksena on nyt keväällä suorittaa Full stack Open kurssi vähintään 5op edestä.
 
 Ensimmäisiä aikaansaannoksiani olivat sovelluksen rekisteröinti ja kirjautumissivut. Tarkoituksena oli luoda toiminnallisuus, jonka avulla käyttäjän antamat rekisteröintitiedot menevät AWS cognito palveluun. Tässä onnistuinkin eli sain aikaan toimivat pohjat sekä rekisteröinti, että kirjautumissivulle. Näihin löytyi kuitenkin varsin selkeät tutoriaalit youtubesta joita käytin apuna komponenttien luomiseen. Kopioin UserPoolId:n ja ClientId:n sovelluksemme AWS:n sivuilta Cognito palvelusta. Alla kuva UserLoginPage -komponentista.
 ![image](https://user-images.githubusercontent.com/98876593/211802905-17460b4f-37bb-4082-b8b2-18c918f99029.png)
@@ -38,7 +38,37 @@ Alla kuva OwnLists -komponentista
 
 # Testaus
 
-Sovellusta testasimme manuaalilla testeillä, jotka oli määritelty zenhubin taskeihin, eli aina kun toiminnallisuus saatiin valmiiksi, se siirrettiin testaus osioon ja kuitattiin valmiiksi vasta kun se oli testattu toimivaksi. Tätä manuaalista testausta suorittivat kaikki tiimissämme, mutta tulimme huomaamaan projektin edetessä, että zenhubin testaus osio paisui viikko viikolta. Meillä olisi ollut tarvetta siis testata enenmmän manuaalisesti, mutta meillä ei riittänyt aika siihen. Itse pyrin pääsäntöisesti testaamaan valmistuneita ominaisuuksia noin kerran viikossa. Testaamisesta aiempaa kokemusta oli kertynyt vain toisen vuoden testaus kurssilta. Cypressia käytettiin kyseisellä kurssilla end to end testien tekemiseen. Paljon ei ollut enää muistissa cypressin toiminnasta, eli aika nollilta joutui aloittaa sen kanssa. Käytin testien tekemiseen yleensä omaa testausbranchia. Projetkin aikana sain valmiiksi muutaman end to end testin. 
+Sovellusta testasimme manuaalilla testeillä, jotka oli määritelty zenhubin taskeihin, eli aina kun toiminnallisuus saatiin valmiiksi, se siirrettiin testaus osioon ja kuitattiin valmiiksi vasta kun se oli testattu toimivaksi. Tätä manuaalista testausta suorittivat kaikki tiimissämme, mutta tulimme huomaamaan projektin edetessä, että zenhubin testaus osio paisui viikko viikolta. Meillä olisi ollut tarvetta siis testata enemmän, mutta meillä ei ollut riittävästi aikaa. Itse pyrin pääsäntöisesti testaamaan valmistuneita ominaisuuksia noin kerran viikossa. Testaamisesta aiempaa kokemusta oli kertynyt vain toisen vuoden testaus kurssilta. Cypressia käytettiin kyseisellä kurssilla end to end testien tekemiseen. Paljon ei ollut enää muistissa cypressin toiminnasta, eli aika nollilta joutui aloittaa sen kanssa. Käytin testien tekemiseen yleensä omaa testausbranchia. Projetkin aikana sain valmiiksi muutaman end to end testin. Vaikka testejä ei sinällään käytetty sovelluksen kehittämiseen, koska testien avulla ei löytynyt bugeja, niin tällaisten testien kirjoittaminen tulisi olemaan hyödyllistä jos projektia vietäisiin pidemmälle, kuten julkaistaisiin play kaupassa. Tämä siitä syystä, että kukaan ei jaksa tehdä tällaisia testejä manuaalisesti päivittäin eikä esim. yrityksissä resurssit siihen välttämättä riittäisi. Automaattisia testejä voitaisiin ajastaa käynnistymään päivittäin jolloin saataisiin aina suoraan tieto jos testi epäonnistuu.
+
+Testien kirjoittamisessa tuli vastaan yksi isompi ongelma: Cypress testi ei normaalisti tallenna selaimen local storagen kirjautumistietoja, jolloin testin tekeminen kirjautuneena ei onnistu. Suurin osa sovelluksen toiminnallisuuksista vaati sisään kirjautumisen ja sen takia kirjautuminen sisällytettiin useampaan testiin. Ongelmaa yritimme korjata tallentamalla kirjautumistiedot "snapshottiin" siinä kuitenkaan onnistumatta. Sain ongelman kierrettyä kirjoittamalla monta eri vaihetta yhden testin sisälle kirjautumisen jälkeen. Tämä toimi siitä syystä, että tieto kirjautumistiedot nollaantuvat vain testien välillä. Tiesin kuitenkin, että tämä ei olisi oikea tapa kirjoittaa testejä, joten perehdyin ongelmaan vielä myöhemmin. 
+
+Ongelmaan löytyi ratkaisu funktioiden avulla, jotka palauttavat ja tallentavat kirjautumistiedot jokaisessa testissä.
+![image](https://user-images.githubusercontent.com/98876593/212105494-82b9cc74-94d4-46e6-bb26-8a704c148825.png)
+
+Lisäksi lisäsin cypress.config.js tiedostoon pari riviä koodia.
+![image](https://user-images.githubusercontent.com/98876593/212106794-1c86c871-0fe0-4b96-9911-0ccc02bbd7d6.png)
+
+Cypress reseptin lisäys end to end testi
+![image](https://user-images.githubusercontent.com/98876593/212108788-39603892-c1e6-425f-a446-f82c3eb54527.png)
+
+# Mitä opin tästä kaikesta?
+
+Projektissa työskenteleminen oli välillä haasteellista, johtuen pitkälti siitä, että uusien asioiden opetteluun ja ongelmien selvittämiseen kului kohtuullisen paljon aikaa. Projektiin olisi ollut helpompi lähteä mukaan jos itsellä olisi ollut yksi selkeä vahvuusalue, nyt sellaista ei oikein ollut tiedossa etukäteen. Voin kuitenkin olla tyytyväinen että sain roolit tekniikasta ja testauksesta, koska samat asiat kiinnostavat edelleen myös projetkin jälkeen. Projektin aikana tavoitteenani oli kehittyä koodaamisessa ja testaajan työssä. Koodaamisen osalta tämä toteutui, mutta vain osittain. Ottaen huomioon, että React oli täysin uusi framework itselle olen kyllä oppinut siitä suhteellisen paljon, mutta en koe yleisesti olevani koodarina paljoakaan parempi kuin ennen, koska koodin kirjoittaminen itsenäisesti on edelleen vaikeaa. Ohjelmoinnissa olisi vielä paljon opittavaa ja aioin vielä jatkossakin full stackia opiskella. Testauksesta opin käyttämään cypressia paremmin, sekä hieman postmanin käyttöä backendin testauksessa. 
+
+Projektin aikana selkeni kuitenkin ajatus siitä miten tärkeää tiedonhakutaito on tällaisessa työssä. Toisekseen koodaamisen osalta tajusin paremmin miten tärkeää console loggaaminen on, vaikka sen kyllä tiedostin jo aiemminkin, niin kurssin aikana sen tärkeys erityisesti korostui. Sain myös työtehtävieni kautta ideoita opinnäytetyön aiheeksi. Tulevaisuuden suunnitelmissa olisi hakea työtehtäviä todennäköisimmin testaajana.
+
+- Uutta frontend frameworkia, koska React ei ollut aiemmin tuttu
+
+- Hieman postmanin käyttöä
+
+- Gitin käyttäminen tuli tutummaksi
+
+- Lisää testauksesta. Cyppressia olin käyttänyt aiemmin, mutta melko vähän, joten sain siitä lisää kokemusta
+
+- Tiimityöskentely voi olla välillä vaikeaa
+
+- Scrumin käytänteet
+
 
 
 
