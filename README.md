@@ -33,6 +33,12 @@ Sivu toimi aluksi alkeellisesti niin, että console loggaamalla saimme näkyviin
 Alla kuva UserRegisterPage -komponentista
 ![image](https://user-images.githubusercontent.com/98876593/212065587-7b45b103-2963-4004-9a76-81a90f007cb7.png)
 
+Alla kuva OwnLists -komponentista
+![image](https://user-images.githubusercontent.com/98876593/212067474-2fcecbbb-01eb-4b4f-828d-c27b0bbe429a.png)
+
+# Testaus
+
+Sovellusta testasimme manuaalilla testeillä, jotka oli määritelty zenhubin taskeihin, eli aina kun toiminnallisuus saatiin valmiiksi, se siirrettiin testaus osioon ja kuitattiin valmiiksi vasta kun se oli testattu toimivaksi. Tätä manuaalista testausta suorittivat kaikki tiimissämme, mutta tulimme huomaamaan projektin edetessä, että zenhubin testaus osio paisui viikko viikolta. Meillä olisi ollut tarvetta siis testata enenmmän manuaalisesti, mutta meillä ei riittänyt aika siihen. Itse pyrin pääsäntöisesti testaamaan valmistuneita ominaisuuksia noin kerran viikossa. Testaamisesta aiempaa kokemusta oli kertynyt vain toisen vuoden testaus kurssilta. Cypressia käytettiin kyseisellä kurssilla end to end testien tekemiseen. Paljon ei ollut enää muistissa cypressin toiminnasta, eli aika nollilta joutui aloittaa sen kanssa. Käytin testien tekemiseen yleensä omaa testausbranchia. Projetkin aikana sain valmiiksi muutaman end to end testin. 
 
 
 
