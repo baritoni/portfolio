@@ -1,4 +1,8 @@
 # TC-Portfolio
+
+
+
+
 # Lähtötilanne
 
 Ticorporaten alkaessa itseäni kiinnosti frontend, testaus, tietokannat ja ui/ux suunnittelu. Lähtötilanne omien taitojen osalta oli seuraavanlainen:
@@ -10,6 +14,10 @@ Ticorporaten alkaessa itseäni kiinnosti frontend, testaus, tietokannat ja ui/ux
 
 Mikä oli sitten vahvuusalueeni? Missään en kokenyt olevani vielä todella hyvä, joten suuntauduin vain sen perusteella mikä itseäni kiinnosti eniten eli frontend. UI/UX toteutus/suunnittelu kiinnostaa, mutta en koe olevani kovin luova siinä tehtävässä. Ensimmäisen vuoden suoritin Vaasan Ammattikorkeakoulussa, joten ensimmäisen vuoden opintoni poikkesivat JAMK:in vastaavista. Koulun vaihdosta johtuen toisen vuoden kurssit olivat sekoitus ensimmäisen ja toisen vuoden pakollisia kursseja, eikä vapaasti valittaville ja täydentäville jäänyt paljoa tilaa. Ainoa ohjelmointi kursssi toisena vuotena oli Frontendin perusteet.
 
+
+
+
+
 # Roolit ticorporatessa
 
 Meidän ryhmäämme kuului aluksi 5 henkilöä, mutta yksi jäi pois matkasta aivan alkuvaiheessa. Tämä aiheutti osaltaan ongelmia roolien valintaan. Rooleja oli enemmän kuin oli halukkaita niitä ottamaan. Omalta osaltani tämä meni sitten niin, että alussa roolini olivat testaus ja frontend, sitten frontend ja markkinointi, sitten pelkkä frontend. Lopullinen vaihto tapahtui projektin kolmannella viikolla, eli lopulta palattiin alkupisteeseen ja roolini olivat taas testaus ja frontend. Tämä muutos oli siis lopullinen ja siinä pysyttiin koko loppuprojektin ajan. Näin jälkeenpäin ajateltuna voin olla ihan tyytyväinen ratkaisuun.
@@ -20,6 +28,10 @@ Meidän ryhmäämme kuului aluksi 5 henkilöä, mutta yksi jäi pois matkasta ai
 - Päädyin kuitenkin takaisin testaajaksi
 - Tiimissämme oli tarkoitus olla alunperin 5 henkilöä, mutta yksi jäi pois matkasta
 - Osaltaan tämä aiheutti alussa hieman ongelmia roolien valintaan
+
+
+
+
 
 # Frontend
 
@@ -46,6 +58,10 @@ Komponentin otsikko, painike ja importoitu ListModal komponentti
 ![image](https://user-images.githubusercontent.com/98876593/212675207-86684b89-14c4-4f8a-88f6-e8b743263432.png)
 
 
+
+
+
+
 # Testaus
 
 Sovellusta testasimme manuaalilla testeillä, jotka oli määritelty zenhubin taskeihin, eli aina kun toiminnallisuus saatiin valmiiksi, se siirrettiin testaus osioon ja kuitattiin valmiiksi vasta kun se oli testattu toimivaksi. Tätä manuaalista testausta suorittivat kaikki tiimissämme, mutta tulimme huomaamaan projektin edetessä, että zenhubin testaus osio paisui viikko viikolta. Meillä olisi ollut tarvetta siis testata enemmän, mutta meillä ei ollut riittävästi aikaa. Itse pyrin pääsäntöisesti testaamaan valmistuneita ominaisuuksia noin kerran viikossa. Testaamisesta aiempaa kokemusta oli kertynyt vain toisen vuoden testaus kurssilta. Cypressia käytettiin kyseisellä kurssilla end to end testien tekemiseen. Paljon ei ollut enää muistissa cypressin toiminnasta, eli aika nollilta joutui aloittaa sen kanssa. Käytin testien tekemiseen yleensä omaa testausbranchia. Projektin aikana sain valmiiksi muutaman end to end testin. Vaikka testejä ei sinällään käytetty sovelluksen kehittämiseen, koska testien avulla ei löytynyt uusia bugeja, niin tällaisten testien kirjoittaminen tulisi olemaan hyödyllistä jos projektia vietäisiin pidemmälle, kuten julkaistaisiin play kaupassa. Tämä siitä syystä, että kukaan ei jaksa tehdä tällaisia testejä manuaalisesti päivittäin eikä esim. yrityksissä resurssit siihen välttämättä riittäisi. Automaattisia testejä voitaisiin ajastaa käynnistymään päivittäin jolloin saataisiin aina suoraan tieto jos testi epäonnistuu.
@@ -62,6 +78,10 @@ Cypress reseptin lisäys end to end testi
 ![image](https://user-images.githubusercontent.com/98876593/212108788-39603892-c1e6-425f-a446-f82c3eb54527.png)
 
 Miksi valitsin juuri nämä työt portfolioon? Villen oltua huomattavasti pätevämpi frontend koodari, moni komponentti jonka tekoon osallistuin meni Villen ohjeistuksessa, joko niin, että itse tein ja Ville ohjeisti tai vaihtoehtoisesti katsoin mukana Villen koodaamista samalla kun hän selitti mitä tekee ja yritin oppia samalla. Tästä syystä valitsin portfolioon ne React -komponentit joiden tekoon osallistuin kaikista eniten. Testauksesta halusin tuoda esiin yhden selkeän ongelmakohdan cypress testissä ja siihen löytyneen ratkaisun.    
+ 
+ 
+ 
+ 
  
 # Mitä opin tästä kaikesta?
 
