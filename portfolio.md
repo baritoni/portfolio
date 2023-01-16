@@ -69,6 +69,9 @@ Lisäksi lisäsin cypress.config.js tiedostoon pari riviä koodia.
 Cypress reseptin lisäys end to end testi
 ![image](https://user-images.githubusercontent.com/98876593/212108788-39603892-c1e6-425f-a446-f82c3eb54527.png)
 
+Yksikkötesti jossa testataan Loading komponentin renderöimää tekstiä
+![image](https://user-images.githubusercontent.com/98876593/212763102-aad5b9b4-4d34-4b76-9f0f-88d1cbb323b3.png)
+
 Miksi valitsin juuri nämä työt portfolioon? Villen oltua huomattavasti pätevämpi frontend koodari, moni komponentti jonka tekoon osallistuin meni Villen ohjeistuksessa, joko niin, että itse tein ja Ville ohjeisti tai vaihtoehtoisesti katsoin mukana Villen koodaamista samalla kun hän selitti mitä tekee ja yritin oppia samalla. Tästä syystä valitsin portfolioon ne React -komponentit joiden tekoon osallistuin kaikista eniten. Testauksesta halusin tuoda esiin yhden selkeän ongelmakohdan cypress testissä ja siihen löytyneen ratkaisun.    
  
 <p>&nbsp;</p>
