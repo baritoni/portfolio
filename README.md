@@ -7,9 +7,8 @@ Ticorporaten alkaessa itseäni kiinnosti frontend, testaus, tietokannat ja ui/ux
 - Ei backend kurssia
 - Perus HTML ja css osaaminen
 - Pilvialustat kurssi samaan aikaan tc:n kanssa
-- Tietokantojen perusteet
 
-Mikä oli sitten vahvuusalueeni? Missään en kokenyt olevani vielä todella hyvä, joten suuntauduin vain sen perusteella mikä itseäni kiinnosti eniten eli frontendiin ja testaukseen. Ensimmäisen vuoden suoritin Vaasan Ammattikorkeakoulussa, joten ensimmäisen vuoden opintoni poikkesivat JAMK:in vastaavista. Koulun vaihdosta johtuen toisen vuoden kurssit olivat sekoitus ensimmäisen ja toisen vuoden pakollisia kursseja, eikä vapaasti valittaville ja täydentäville jäänyt paljoa tilaa. Ainoa ohjelmointi kursssi oli Frontendin perusteet.
+Mikä oli sitten vahvuusalueeni? Missään en kokenyt olevani vielä todella hyvä, joten suuntauduin vain sen perusteella mikä itseäni kiinnosti eniten eli frontend. UI/UX toteutus/suunnittelu kiinnostaa, mutta en koe olevani kovin luova siinä tehtävässä. Ensimmäisen vuoden suoritin Vaasan Ammattikorkeakoulussa, joten ensimmäisen vuoden opintoni poikkesivat JAMK:in vastaavista. Koulun vaihdosta johtuen toisen vuoden kurssit olivat sekoitus ensimmäisen ja toisen vuoden pakollisia kursseja, eikä vapaasti valittaville ja täydentäville jäänyt paljoa tilaa. Ainoa ohjelmointi kursssi toisena vuotena oli Frontendin perusteet.
 
 # Roolit ticorporatessa
 
@@ -31,6 +30,8 @@ Ensimmäisiä sovelluksen osia, joiden tekemiseen osallistuin olivat sovelluksen
 
 Alla kuva UserRegisterPage -komponentista
 ![image](https://user-images.githubusercontent.com/98876593/212065587-7b45b103-2963-4004-9a76-81a90f007cb7.png)
+
+
 
 Alla kuva OwnLists -komponentista
 ![image](https://user-images.githubusercontent.com/98876593/212067474-2fcecbbb-01eb-4b4f-828d-c27b0bbe429a.png)
