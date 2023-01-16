@@ -1,7 +1,6 @@
 # TC-Portfolio
 
-
-
+<p>&nbsp;</p>
 
 # Lähtötilanne
 
@@ -14,9 +13,7 @@ Ticorporaten alkaessa itseäni kiinnosti frontend, testaus, tietokannat ja ui/ux
 
 Mikä oli sitten vahvuusalueeni? Missään en kokenyt olevani vielä todella hyvä, joten suuntauduin vain sen perusteella mikä itseäni kiinnosti eniten eli frontend. UI/UX toteutus/suunnittelu kiinnostaa, mutta en koe olevani kovin luova siinä tehtävässä. Ensimmäisen vuoden suoritin Vaasan Ammattikorkeakoulussa, joten ensimmäisen vuoden opintoni poikkesivat JAMK:in vastaavista. Koulun vaihdosta johtuen toisen vuoden kurssit olivat sekoitus ensimmäisen ja toisen vuoden pakollisia kursseja, eikä vapaasti valittaville ja täydentäville jäänyt paljoa tilaa. Ainoa ohjelmointi kursssi toisena vuotena oli Frontendin perusteet.
 
-
-
-
+<p>&nbsp;</p>
 
 # Roolit ticorporatessa
 
@@ -29,9 +26,7 @@ Meidän ryhmäämme kuului aluksi 5 henkilöä, mutta yksi jäi pois matkasta ai
 - Tiimissämme oli tarkoitus olla alunperin 5 henkilöä, mutta yksi jäi pois matkasta
 - Osaltaan tämä aiheutti alussa hieman ongelmia roolien valintaan
 
-
-
-
+<p>&nbsp;</p>
 
 # Frontend
 
@@ -57,10 +52,7 @@ Axiosilla totetutettu käyttäjän listahaku backendistä
 Komponentin otsikko, painike ja importoitu ListModal komponentti
 ![image](https://user-images.githubusercontent.com/98876593/212675207-86684b89-14c4-4f8a-88f6-e8b743263432.png)
 
-
-
-
-
+<p>&nbsp;</p>
 
 # Testaus
 
@@ -79,10 +71,8 @@ Cypress reseptin lisäys end to end testi
 
 Miksi valitsin juuri nämä työt portfolioon? Villen oltua huomattavasti pätevämpi frontend koodari, moni komponentti jonka tekoon osallistuin meni Villen ohjeistuksessa, joko niin, että itse tein ja Ville ohjeisti tai vaihtoehtoisesti katsoin mukana Villen koodaamista samalla kun hän selitti mitä tekee ja yritin oppia samalla. Tästä syystä valitsin portfolioon ne React -komponentit joiden tekoon osallistuin kaikista eniten. Testauksesta halusin tuoda esiin yhden selkeän ongelmakohdan cypress testissä ja siihen löytyneen ratkaisun.    
  
- 
- 
- 
- 
+<p>&nbsp;</p>
+
 # Mitä opin tästä kaikesta?
 
 Projektissa työskenteleminen oli välillä haasteellista, johtuen pitkälti siitä, että uusien asioiden opetteluun ja ongelmien selvittämiseen kului kohtuullisen paljon aikaa. Projektiin olisi ollut helpompi lähteä mukaan jos itsellä olisi ollut yksi selkeä vahvuusalue, nyt sellaista ei oikein ollut tiedossa etukäteen. Voin kuitenkin olla tyytyväinen että sain roolit tekniikasta ja testauksesta, koska samat asiat kiinnostavat edelleen myös projetkin jälkeen. Projektin aikana tavoitteenani oli kehittyä koodaamisessa ja testaajan työssä. Koodaamisen osalta tämä toteutui, mutta vain osittain. Ottaen huomioon, että React oli täysin uusi framework itselle olen kyllä oppinut siitä suhteellisen paljon, mutta en koe yleisesti olevani koodarina paljoakaan parempi kuin ennen, koska koodin kirjoittaminen itsenäisesti on edelleen vaikeaa. Sovelluskehityksestä olisi vielä paljon opittavaa ja aioin vielä jatkossakin full stackia opiskella, jotta saisin varmemmin töitä. Testauksesta opin käyttämään cypressia paremmin, sekä hieman postmanin käyttöä backendin testauksessa. Tarkoitus oli kirjoittaa myös yksikkötestejä, mutta ne jäivät aivan projektin loppuvaiheeseen ja vastaan tuli teknisiä ongelmia.
