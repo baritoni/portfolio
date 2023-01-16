@@ -63,9 +63,6 @@ Testien kirjoittamisessa tuli vastaan yksi isompi ongelma: Cypress testi ei norm
 Ongelmaan löytyi ratkaisu funktioiden avulla, jotka palauttavat ja tallentavat kirjautumistiedot jokaisessa testissä.
 ![image](https://user-images.githubusercontent.com/98876593/212105494-82b9cc74-94d4-46e6-bb26-8a704c148825.png)
 
-Lisäksi lisäsin cypress.config.js tiedostoon pari riviä koodia.
-![image](https://user-images.githubusercontent.com/98876593/212106794-1c86c871-0fe0-4b96-9911-0ccc02bbd7d6.png)
-
 Cypress reseptin lisäys end to end testi
 ![image](https://user-images.githubusercontent.com/98876593/212108788-39603892-c1e6-425f-a446-f82c3eb54527.png)
 
