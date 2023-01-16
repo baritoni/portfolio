@@ -36,7 +36,7 @@ Listan lisäys komponenttia tein yhdessä Villen kanssa, osan siitä parikoodauk
 Omat listat -sivu valmiissa sovelluksessa
 ![image](https://user-images.githubusercontent.com/98876593/212677249-04644cd4-c728-42d1-a46b-839a37fd0c10.png)
 
-Alla kuva OwnLists -komponentin koodista. UseEffect on funktio, jonka sisältö ladataan vain kerran silloin kun sivu renderöityy
+Alla kuva OwnLists -komponentin koodista. UseEffect on funktio, jonka suoritetaan kerran siinä vaiheessa kun sivu on latautunut 
 ![image](https://user-images.githubusercontent.com/98876593/212067474-2fcecbbb-01eb-4b4f-828d-c27b0bbe429a.png)
 
 Axiosilla totetutettu käyttäjän listahaku backendistä
