@@ -12,7 +12,7 @@ Mikä oli sitten vahvuusalueeni? Missään en kokenyt olevani vielä todella hyv
 
 # Roolit ticorporatessa
 
-Meidän ryhmäämme kuului aluksi 5 henkilöä, mutta yksi jäi pois matkasta aivan alkuvaiheessa. Tämä aiheutti osaltaan ongelmia roolien valintaan. Rooleja oli enemmän kuin oli halukkaita niitä ottamaan. Omalta osaltani tämä meni sitten niin, että alussa roolini olivat testaus ja frontend, sitten frontend ja markkinointi, sitten pelkkä frontend. Lopullinen vaihto tapahtui projektin kolmannella viikolla, eli lopulta palattiin alkupisteeseen ja roolini olivat taas testaus ja frontend. Tämä muutos oli siis lopullinen ja siinä pysyttiin koko loppuprojektin ajan.
+Meidän ryhmäämme kuului aluksi 5 henkilöä, mutta yksi jäi pois matkasta aivan alkuvaiheessa. Tämä aiheutti osaltaan ongelmia roolien valintaan. Rooleja oli enemmän kuin oli halukkaita niitä ottamaan. Omalta osaltani tämä meni sitten niin, että alussa roolini olivat testaus ja frontend, sitten frontend ja markkinointi, sitten pelkkä frontend. Lopullinen vaihto tapahtui projektin kolmannella viikolla, eli lopulta palattiin alkupisteeseen ja roolini olivat taas testaus ja frontend. Tämä muutos oli siis lopullinen ja siinä pysyttiin koko loppuprojektin ajan. Näin jälkeenpäin ajateltuna voin olla ihan tyytyväinen ratkaisuun.
 
 - Pääroolina tekniikka (Frontend)
 - Sivuroolina testaus 
@@ -31,9 +31,12 @@ Ensimmäisiä sovelluksen osia, joiden tekemiseen osallistuin olivat sovelluksen
 Alla kuva UserRegisterPage -komponentista
 ![image](https://user-images.githubusercontent.com/98876593/212065587-7b45b103-2963-4004-9a76-81a90f007cb7.png)
 
+Listan lisäys komponenttia tein yhdessä Villen kanssa, osan siitä parikoodauksena niin että olin itse koneella ja Ville neuvoi ja kommentoi samalla. Tällä tavoin en ollut työskennellyt koskaan aiemmin. Homma toimi suht ok pientä sekoilua lukuunottamatta. Ongelma oli ehkä siinä, että osaamistasossa oli melko suuri ero ja en toisekseen ollut tottunut työskentelemään tällä tavoin, joten se tuntui hieman oudolta. Kyseisessä komponentissa on painike, josta avautuu valikko jolla voi lisätä uuden listan itselle. Itselle täysin uutta asiaa oli mm. backendiin tehtävät pyynnöt axiosin avulla. Lisätty lista näkyy sivulla ja listaa klikkaamalla pääsee katsomaan listan sisältämiä reseptejä.
 
+Omat listat -sivu valmiissa sovelluksessa
+![image](https://user-images.githubusercontent.com/98876593/212677249-04644cd4-c728-42d1-a46b-839a37fd0c10.png)
 
-Alla kuva OwnLists -komponentista
+Alla kuva OwnLists -komponentin koodista. UseEffect on funktio, jonka sisältö ladataan vain kerran silloin kun sivu renderöityy
 ![image](https://user-images.githubusercontent.com/98876593/212067474-2fcecbbb-01eb-4b4f-828d-c27b0bbe429a.png)
 
 Axios hookilla totetutettu käyttäjän listahaku backendistä
