@@ -28,7 +28,7 @@ Meidän ryhmäämme kuului aluksi 5 henkilöä, mutta yksi jäi pois matkasta ai
 
 <p>&nbsp;</p>
 
-# Frontend
+# Tekniikka (Frontend) 
 
 Vaikka numeroiden valossa olin menestynyt melko hyvin ohjelmointi kursseilla, koin silti olevani melko "wannabe" -tasolla ohjelmoinnissa. Ehkä voisin kuvailla tätä sillä tavalla, että useasti ymmärsin koodia, kykenin muokkaamaan ja soveltamaan valmista koodia, mutta heikkouteni oli oman koodin kirjoittaminen alusta asti. Koska ryhmämme päätyi valitsemaan frontend frameworkiksi Reactin ja itselläni ei ollut siitä mitään aiempaa kokemusta, aloitin projekin opettelemalla Reactia full stack open kurssin tehtäviä suorittamalla. Tähän käytin aikaa 2 viikkoa. Tein lähes kaikki taskit jotka minulle oli määritelty zenhubiin, vain pari aivan viimeistä tehtävää jäi kesken. Opin kurssista kyllä Reactia, mutta 2 viikkoa oli hieman liian lyhyt aika itselleni opetella uusi framework. Pidempää aikaa ei tähän ollut projektia silmällä pitäen järkeä käyttää, joten aloitin aloin osallistumaan frontendin koodaamiseen lokakuun loppupuolella. 
 
