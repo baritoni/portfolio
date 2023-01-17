@@ -2,6 +2,8 @@
 
 <p>&nbsp;</p>
 
+Toni Luomala
+
 # Lähtötilanne
 
 Ticorporaten alkaessa itseäni kiinnosti frontend, testaus, tietokannat ja ui/ux suunnittelu. Lähtötilanne omien taitojen osalta oli seuraavanlainen:
@@ -90,6 +92,9 @@ Jokaisena päivänä tein, tai ainakin yritin tehdä jotain projektimme eteen. P
 - Tiimityöskentely voi olla välillä vaikeaa
 
 - Scrumin käytänteet
+
+
+Voit kirjoittaa tavoitteista lisää 
 
 
 
