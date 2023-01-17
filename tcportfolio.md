@@ -20,7 +20,7 @@ Mikä oli sitten vahvuusalueeni? Missään en kokenyt olevani vielä todella hyv
 
 # Roolit ticorporatessa
 
-Meidän ryhmäämme kuului aluksi 5 henkilöä, mutta yksi jäi pois matkasta aivan alkuvaiheessa. Tämä aiheutti osaltaan ongelmia roolien valintaan. Rooleja oli enemmän kuin oli halukkaita niitä ottamaan. Omalta osaltani tämä meni sitten niin, että alussa roolini olivat testaus ja frontend, sitten frontend ja markkinointi, sitten pelkkä frontend. Lopullinen vaihto tapahtui projektin kolmannella viikolla, eli lopulta palattiin alkupisteeseen ja roolini olivat taas testaus ja frontend. Tämä muutos oli siis lopullinen ja siinä pysyttiin koko loppuprojektin ajan. Näin jälkeenpäin ajateltuna voin olla ihan tyytyväinen ratkaisuun.
+Meidän ryhmäämme kuului aluksi 5 henkilöä, mutta yksi jäi pois matkasta aivan alkuvaiheessa. Tämä aiheutti osaltaan ongelmia roolien valintaan. Rooleja oli enemmän kuin oli halukkaita niitä ottamaan. Omalta osaltani tämä meni sitten niin, että alussa roolini olivat testaus ja frontend, sitten frontend ja markkinointi, sitten pelkkä frontend. Lopullinen vaihto tapahtui projektin kolmannella viikolla, eli lopulta palattiin alkupisteeseen ja roolini olivat taas testaus ja frontend. Tämä muutos oli siis lopullinen ja siinä pysyttiin koko loppuprojektin ajan. Näin jälkeenpäin ajateltuna voin olla ihan tyytyväinen ratkaisuun. Vaikka testaus oli sivurooli, niin todellisuudessa käytin siihen kuitenkin hieman enemmän kuin 20% työajasta.
 
 - Pääroolina tekniikka (Frontend)
 - Sivuroolina testaus 
@@ -93,7 +93,7 @@ Miksi valitsin juuri nämä työt portfolioon? Villen oltua huomattavasti pätev
 
 # Mitä opin tästä kaikesta?
 
-Projektissa työskenteleminen oli välillä haasteellista, johtuen pitkälti siitä, että uusien asioiden opetteluun ja ongelmien selvittämiseen kului kohtuullisen paljon aikaa. Projektiin olisi ollut helpompi lähteä mukaan jos itsellä olisi ollut yksi selkeä vahvuusalue, nyt sellaista ei oikein ollut tiedossa etukäteen. Voin kuitenkin olla tyytyväinen että sain roolit tekniikasta ja testauksesta, koska samat asiat kiinnostavat edelleen myös projektin jälkeen. Projektin aikana tavoitteenani oli kehittyä koodaamisessa ja testaajan työssä. Koodaamisen osalta tämä toteutui, mutta vain osittain. Ottaen huomioon, että React oli täysin uusi framework itselle olen kyllä oppinut siitä suhteellisen paljon, mutta en koe yleisesti olevani koodarina paljoakaan parempi kuin ennen, koska koodin kirjoittaminen itsenäisesti on edelleen vaikeaa. Sovelluskehityksestä olisi vielä paljon opittavaa ja aioin vielä jatkossakin full stackia opiskella, jotta saisin varmemmin töitä. Testauksesta opin käyttämään cypressia paremmin, sekä hieman postmanin käyttöä backendin testauksessa. Tarkoitus oli kirjoittaa myös yksikkötestejä, mutta ne jäivät aivan projektin loppuvaiheeseen ja vastaan tuli teknisiä ongelmia.
+Projektissa työskenteleminen oli välillä haasteellista, johtuen pitkälti siitä, että uusien asioiden opetteluun ja ongelmien selvittämiseen kului kohtuullisen paljon aikaa. Projektiin olisi ollut helpompi lähteä mukaan jos itsellä olisi ollut yksi selkeä vahvuusalue, nyt sellaista ei oikein ollut tiedossa etukäteen. Voin kuitenkin olla tyytyväinen että sain roolit tekniikasta ja testauksesta, koska samat asiat kiinnostavat edelleen myös projektin jälkeen. Projektin aikana tavoitteenani oli kehittyä koodaamisessa ja testaajan työssä. Koodaamisen osalta tämä toteutui, mutta vain osittain. Ottaen huomioon, että React oli täysin uusi framework itselle olen kyllä oppinut siitä suhteellisen paljon, mutta en koe yleisesti olevani koodarina paljoakaan parempi kuin ennen, koska koodin kirjoittaminen itsenäisesti on edelleen vaikeaa. Sovelluskehityksestä olisi vielä paljon opittavaa ja aioin vielä jatkossakin full stackia opiskella, jotta saisin varmemmin töitä. Testauksesta opin käyttämään cypressia paremmin, sekä hieman postmanin käyttöä backendin testauksessa. Yksikkötestien kirjoittaminen jäi vähiiin koska aloitin sen vasta projektin loppuvaiheessa ja vastaan tuli teknisiä ongelmia.
 
 Jokaisena päivänä tein, tai ainakin yritin tehdä jotain projektimme eteen. Projektin aikana selkeni kuitenkin ajatus siitä miten tärkeää tiedonhakutaito on tällaisessa työssä. Toisekseen koodaamisen osalta tajusin paremmin miten tärkeää console loggaaminen on, vaikka sen kyllä tiedostin jo aiemminkin, niin kurssin aikana sen tärkeys erityisesti korostui. Kommunikointitaitoja ei voi kyllin korostaa. Kommunikointi ei tiimissämme varmasti ollut täydellistä, mutta onnistui kuitenkin sen verran hyvin, että saimme asiat yleensä hoidettua keskenään. Sain myös työtehtävieni kautta mahdollisia ideoita opinnäytetyön aiheeksi. 
 
@@ -109,9 +109,11 @@ Jokaisena päivänä tein, tai ainakin yritin tehdä jotain projektimme eteen. P
 
 - Scrumin käytänteet
 
+<p>&nbsp;</p>
+
 ## Mitä tulevaisuudessa?
 
-Tällä hetkellä suunnitelmissa olisi hakea työtehtäviä todennäköisimmin testaajana eli sain kurssista vahvistusta sille minkälaisiin työtehtäviin aion hakeautua. Jatkossa on tarkoitus opiskella backend sovelluskehitystä ja syventää osaamista frontendin parissa. Ticorporate oli enimmäkseen miellyttävä kurssi jonka aikana sai kokemusta asioista, joita ei ole mahdollista muilla kursseilla oppia. 
+Tällä hetkellä suunnitelmissa olisi hakea työtehtäviä todennäköisimmin testaajana eli sain kurssista vahvistusta sille minkälaisiin työtehtäviin aion hakeautua. Jatkossa on tarkoitus opiskella backend sovelluskehitystä ja syventää osaamista frontendin parissa käymällä full stack open kurssia perusteellisemmin kuin se oli mahdollista ticorporaten aikana. Ticorporate oli enimmäkseen miellyttävä kurssi jonka aikana sai kokemusta asioista, joita ei ole mahdollista muilla kursseilla oppia. 
 
 
 
