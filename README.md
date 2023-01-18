@@ -1,9 +1,9 @@
+Toni Luomala <br>
+HTK20S1, AA4498 <br>
+toni.luomala@protonmail.com
+
 # Ticorporate kurssin Portfolio
 
-<p>&nbsp;</p>
-
-Toni Luomala <br>
-toni.luomala@protonmail.com
 
 Ticorporate on JAMK:in tietojenkäsittely tutkintoon kuuluva n. 4kk:n pituinen projektinhallintaa käsittelevä kurssi, jonka aikana kehitetään muutaman hengen ryhmässä joko sovellus tai peli. Ryhmämme kehittämä sovellus on Brita nimeä käyttävä reseptisovellus.  
 
@@ -38,13 +38,18 @@ Meidän ryhmäämme kuului aluksi 5 henkilöä, mutta yksi jäi pois matkasta ai
 
 # Tekniikka (Frontend) 
 
-- Javascript frameworkkina React
+- Javascript kirjastona React
 
 - Uuden tekniikan opettelua
 
+- Lopullisesta sovelluksesta tein itse vain pienen osan
+
 Vaikka numeroiden valossa olin menestynyt melko hyvin ohjelmointi kursseilla en silti kokenut olevani ohjelmoinnissa kovin hyvä. Ehkä voisin kuvailla tätä sillä tavalla, että useasti ymmärsin koodia, kykenin muokkaamaan ja soveltamaan valmista koodia, mutta heikkouteni oli oman koodin kirjoittaminen alusta asti. Koska ryhmämme päätyi valitsemaan frontend frameworkiksi Reactin ja itselläni ei ollut siitä mitään aiempaa kokemusta, aloitin projekin opettelemalla Reactia full stack open kurssin tehtäviä suorittamalla. Tähän käytin aikaa 2 viikkoa. Tein lähes kaikki "spiket" jotka minulle oli määritelty zenhubiin, vain pari aivan viimeistä tehtävää jäi kesken. Opin kurssista kyllä Reactia, mutta 2 viikkoa oli hieman liian lyhyt aika itselleni opetella uusi framework. Pidempää aikaa ei tähän ollut projektia silmällä pitäen järkeä käyttää, joten aloitin aloin osallistumaan frontendin koodaamiseen lokakuun loppupuolella. 
 
-Ensimmäisiä sovelluksen osia, joiden tekemiseen osallistuin olivat sovelluksen kirjautumis -ja rekisteröintisivut. Kirjautumissivun luontiin löytyi varsin selkeä tutoriaali, jossa näytettiin kuinka luodaan User Pool AWS Cognitossa ja kuinka se saadaan toimivaksi Reactin kirjautumissivulla. Kopioin UserPoolId:n ja ClientId:n sovelluksemme AWS:n sivuilta Cognito palvelusta. Alla kuva UserLoginPage -komponentista.
+Ensimmäisiä sovelluksen osia, joiden tekemiseen osallistuin olivat sovelluksen kirjautumis -ja rekisteröintisivut. Kirjautumissivun luontiin löytyi varsin selkeä tutoriaali, jossa näytettiin kuinka luodaan User Pool AWS Cognitossa ja kuinka se saadaan toimivaksi Reactin kirjautumissivulla. Kopioin UserPoolId:n ja ClientId:n sovelluksemme AWS:n sivuilta Cognito palvelusta. Alla kuvia UserLoginPage -komponentista.
+
+![image](https://user-images.githubusercontent.com/98876593/213171719-27ca4f04-1465-410c-8d3c-ab594946ab0c.png)
+
 
 ![image](https://user-images.githubusercontent.com/98876593/211802905-17460b4f-37bb-4082-b8b2-18c918f99029.png)
 
@@ -131,11 +136,13 @@ Jokaisena päivänä tein, tai ainakin yritin tehdä jotain projektimme eteen. P
 
 Tällä hetkellä suunnitelmissa olisi hakea työtehtäviä todennäköisimmin testaajana eli sain kurssista vahvistusta sille minkälaisiin työtehtäviin aion hakeautua. Jatkossa on tarkoitus opiskella backend sovelluskehitystä ja syventää osaamista frontendin parissa käymällä full stack open kurssia perusteellisemmin kuin se oli mahdollista ticorporaten aikana. Ticorporate oli enimmäkseen miellyttävä kurssi jonka aikana sai kokemusta asioista, joita ei ole ollut mahdollista muilla kursseilla saada.
 
+- Samat asiat kiinnostaa edelleen
+
 - Opinnäytetyö ja harjoittelu
 
-- Kursseina full stackia ja backendia
+- Kursseina full stackia ja backendia jatkossakin
 
-- Töitä testaajana tai frontend -kehittäjänä
+- Töitä mahdollisesti testaajana tai frontend -kehittäjänä
 
 
 
