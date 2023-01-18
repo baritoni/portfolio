@@ -2,7 +2,8 @@
 
 <p>&nbsp;</p>
 
-Toni Luomala, AA4498
+Toni Luomala
+toni.luomala@protonmail.com
 
 
 # Lähtötilanne
@@ -14,7 +15,7 @@ Ticorporaten alkaessa itseäni kiinnosti frontend, testaus, tietokannat ja ui/ux
 - Perus HTML ja css osaaminen
 - Pilvialustat kurssi samaan aikaan tc:n kanssa
 
-Mikä oli sitten vahvuusalueeni? Missään en kokenyt olevani vielä todella hyvä, joten suuntauduin vain sen perusteella mikä itseäni kiinnosti eniten eli frontend. UI/UX toteutus/suunnittelu kiinnostaa, mutta en koe olevani kovin luova siinä tehtävässä. Ensimmäisen vuoden suoritin Vaasan Ammattikorkeakoulussa, joten ensimmäisen vuoden opintoni poikkesivat JAMK:in vastaavista. Koulun vaihdosta johtuen toisen vuoden kurssit olivat sekoitus ensimmäisen ja toisen vuoden pakollisia kursseja, eikä vapaasti valittaville ja täydentäville jäänyt paljoa tilaa. Ainoa ohjelmointi kursssi toisena vuotena oli Frontendin perusteet. Tavoitteitteekseni asetin itselle oppia koodaamaan paremmmin, lisää testauksesta sekä myös ryhmätyötaitoja.
+Mikä oli sitten vahvuusalueeni? Missään en kokenut olevani vielä todella hyvä, mutta frontendista oli kokemusta jo Sveltestä ja frontendin toteuttaminen kiiinnosti itseäni edelleen. UI/UX toteutus/suunnittelu kiinnostaa, mutta en koe olevani kovin luova siinä tehtävässä. Ensimmäisen vuoden suoritin Vaasan Ammattikorkeakoulussa, joten ensimmäisen vuoden opintoni poikkesivat JAMK:in vastaavista. Koulun vaihdosta johtuen toisen vuoden kurssit olivat sekoitus ensimmäisen ja toisen vuoden pakollisia kursseja, eikä vapaasti valittaville ja täydentäville jäänyt paljoa tilaa. Ainoa ohjelmointi kursssi toisena vuotena oli Frontendin perusteet. Tavoitteitteekseni asetin itselle oppia koodaamaan paremmmin, lisää testauksesta sekä myös ryhmätyötaitoja.
 
 <p>&nbsp;</p>
 
@@ -33,7 +34,7 @@ Meidän ryhmäämme kuului aluksi 5 henkilöä, mutta yksi jäi pois matkasta ai
 
 # Tekniikka (Frontend) 
 
-Vaikka numeroiden valossa olin menestynyt melko hyvin ohjelmointi kursseilla en silti kokenut olevani ohjelmoinnissa kovin hyvä. Ehkä voisin kuvailla tätä sillä tavalla, että useasti ymmärsin koodia, kykenin muokkaamaan ja soveltamaan valmista koodia, mutta heikkouteni oli oman koodin kirjoittaminen alusta asti. Koska ryhmämme päätyi valitsemaan frontend frameworkiksi Reactin ja itselläni ei ollut siitä mitään aiempaa kokemusta, aloitin projekin opettelemalla Reactia full stack open kurssin tehtäviä suorittamalla. Tähän käytin aikaa 2 viikkoa. Tein lähes kaikki taskit jotka minulle oli määritelty zenhubiin, vain pari aivan viimeistä tehtävää jäi kesken. Opin kurssista kyllä Reactia, mutta 2 viikkoa oli hieman liian lyhyt aika itselleni opetella uusi framework. Pidempää aikaa ei tähän ollut projektia silmällä pitäen järkeä käyttää, joten aloitin aloin osallistumaan frontendin koodaamiseen lokakuun loppupuolella. 
+Vaikka numeroiden valossa olin menestynyt melko hyvin ohjelmointi kursseilla en silti kokenut olevani ohjelmoinnissa kovin hyvä. Ehkä voisin kuvailla tätä sillä tavalla, että useasti ymmärsin koodia, kykenin muokkaamaan ja soveltamaan valmista koodia, mutta heikkouteni oli oman koodin kirjoittaminen alusta asti. Koska ryhmämme päätyi valitsemaan frontend frameworkiksi Reactin ja itselläni ei ollut siitä mitään aiempaa kokemusta, aloitin projekin opettelemalla Reactia full stack open kurssin tehtäviä suorittamalla. Tähän käytin aikaa 2 viikkoa. Tein lähes kaikki "spiket" jotka minulle oli määritelty zenhubiin, vain pari aivan viimeistä tehtävää jäi kesken. Opin kurssista kyllä Reactia, mutta 2 viikkoa oli hieman liian lyhyt aika itselleni opetella uusi framework. Pidempää aikaa ei tähän ollut projektia silmällä pitäen järkeä käyttää, joten aloitin aloin osallistumaan frontendin koodaamiseen lokakuun loppupuolella. 
 
 Ensimmäisiä sovelluksen osia, joiden tekemiseen osallistuin olivat sovelluksen kirjautumis -ja rekisteröintisivut. Kirjautumissivun luontiin löytyi varsin selkeä tutoriaali, jossa näytettiin kuinka luodaan User Pool AWS Congitossa ja kuinka se saadaan toimivaksi Reactin kirjautumissivulla. Kopioin UserPoolId:n ja ClientId:n sovelluksemme AWS:n sivuilta Cognito palvelusta. Alla kuva UserLoginPage -komponentista.
 
@@ -90,7 +91,7 @@ Yksikkötesti jossa testataan Loading komponentin renderöimää tekstiä
 
 # Mitä opin tästä kaikesta?
 
-Projektissa työskenteleminen oli välillä haasteellista, johtuen pitkälti siitä, että uusien asioiden opetteluun ja ongelmien selvittämiseen kului kohtuullisen paljon aikaa. Projektiin olisi ollut helpompi lähteä mukaan jos käyttämämme tekniikat olisivat olleet itselle ennestään tuttuja. Sain kuitenkin samalla mahdollisuuden oppia uutta. Voin kuitenkin olla tyytyväinen että sain roolit tekniikasta ja testauksesta, koska samat asiat kiinnostavat edelleen myös projektin jälkeen. Ottaen huomioon, että React oli täysin uusi tekniikka itselle olen kyllä oppinut Reactia, mutta koodin tuottaminen on itselleni edelleen hieman hankalaa. Sovelluskehityksestä olisi vielä paljon opittavaa ja aioin vielä jatkossakin full stackia opiskella, jotta saisin varmemmin töitä. Testauksesta opin käyttämään cypressia paremmin, sekä hieman postmanin käyttöä backendin testauksessa. Yksikkötestien kirjoittaminen jäi vähiiin koska aloitin sen vasta projektin loppuvaiheessa ja vastaan tuli teknisiä ongelmia. Tarkoituksena oli kuitenkin kirjoittaa yksikkötestejä jossain vaiheessa projektia.
+Projektissa työskenteleminen oli välillä haasteellista, johtuen pitkälti siitä, että uusien asioiden opetteluun ja ongelmien selvittämiseen kului kohtuullisen paljon aikaa. Projektiin olisi ollut helpompi lähteä mukaan jos käyttämämme tekniikat olisivat olleet itselle ennestään tuttuja. Sain kuitenkin samalla mahdollisuuden oppia uutta. Voin kuitenkin olla tyytyväinen että sain roolit tekniikasta ja testauksesta, koska samat asiat kiinnostavat edelleen myös projektin jälkeen. Ottaen huomioon, että React oli täysin uusi tekniikka itselle olen kyllä oppinut Reactia, mutta koodin tuottaminen on itselleni edelleen hieman hankalaa. Testauksesta opin käyttämään cypressia paremmin, sekä hieman postmanin käyttöä backendin testauksessa. Yksikkötestien kirjoittaminen jäi vähiiin koska aloitin sen vasta projektin loppuvaiheessa ja vastaan tuli teknisiä ongelmia. Tarkoituksena oli kuitenkin kirjoittaa yksikkötestejä jossain vaiheessa projektia.
 
 Jokaisena päivänä tein, tai ainakin yritin tehdä jotain projektimme eteen. Projektin aikana selkeni kuitenkin ajatus siitä miten tärkeää tiedonhakutaito on tällaisessa työssä. Toisekseen koodaamisen osalta tajusin paremmin miten tärkeää console loggaaminen on, vaikka sen kyllä tiedostin jo aiemminkin, niin kurssin aikana sen tärkeys erityisesti korostui. Kommunikointitaitoja ei voi kyllin korostaa. Kommunikointi ei tiimissämme varmasti ollut täydellistä, mutta onnistui kuitenkin sen verran hyvin, että saimme asiat yleensä hoidettua keskenään. Sain myös työtehtävieni kautta mahdollisia ideoita opinnäytetyön aiheeksi. 
 
@@ -110,13 +111,13 @@ Jokaisena päivänä tein, tai ainakin yritin tehdä jotain projektimme eteen. P
 
 ## Mitä tulevaisuudessa?
 
-Tällä hetkellä suunnitelmissa olisi hakea työtehtäviä todennäköisimmin testaajana eli sain kurssista vahvistusta sille minkälaisiin työtehtäviin aion hakeautua. Jatkossa on tarkoitus opiskella backend sovelluskehitystä ja syventää osaamista frontendin parissa käymällä full stack open kurssia perusteellisemmin kuin se oli mahdollista ticorporaten aikana. Ticorporate oli enimmäkseen miellyttävä kurssi jonka aikana sai kokemusta asioista, joita ei ole mahdollista muilla kursseilla oppia. 
+Tällä hetkellä suunnitelmissa olisi hakea työtehtäviä todennäköisimmin testaajana eli sain kurssista vahvistusta sille minkälaisiin työtehtäviin aion hakeautua. Jatkossa on tarkoitus opiskella backend sovelluskehitystä ja syventää osaamista frontendin parissa käymällä full stack open kurssia perusteellisemmin kuin se oli mahdollista ticorporaten aikana. Ticorporate oli enimmäkseen miellyttävä kurssi jonka aikana sai kokemusta asioista, joita ei ole ollut mahdollista muilla kursseilla saada.
 
 - Opinnäytetyö ja harjoittelu
 
-- Opiskelen full stack sovelluskehitystä
+- Kursseina full stackia ja backendia
 
-- Töitä testaajana tai Frontend kehittäjänä
+- Töitä testaajana tai frontend -kehittäjänä
 
 
 
