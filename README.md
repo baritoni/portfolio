@@ -1,13 +1,13 @@
 # Ticorporate kurssin Portfolio
 
-Ticorporate on JAMK:in tietojenkäsittely tutkintoon kuuluva n. 4kk:n pituinen projektinhallintaa käsittelevä kurssi, jonka aikana kehitetään muutaman hengen ryhhmässä joko sovellus tai peli. Ryhmämme kehittämä sovellus on Brita reseptisovellus.  
-
-![image](https://user-images.githubusercontent.com/98876593/213166634-cd94a286-5897-47ca-bb5d-a435f7770582.png)
-
 <p>&nbsp;</p>
 
 Toni Luomala <br>
 toni.luomala@protonmail.com
+
+Ticorporate on JAMK:in tietojenkäsittely tutkintoon kuuluva n. 4kk:n pituinen projektinhallintaa käsittelevä kurssi, jonka aikana kehitetään muutaman hengen ryhmässä joko sovellus tai peli. Ryhmämme kehittämä sovellus on Brita nimeä käyttävä reseptisovellus.  
+
+![image](https://user-images.githubusercontent.com/98876593/213166634-cd94a286-5897-47ca-bb5d-a435f7770582.png)
 
 
 # Lähtötilanne
