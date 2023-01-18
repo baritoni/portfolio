@@ -69,6 +69,14 @@ Komponentin otsikko, painike ja importoitu ListModal komponentti
 
 # Testaus
 
+- Käyttäjätestausta
+
+- Manuaalista testaamista
+
+- End to end testejä cyppressilla
+
+- Yksikkötestausta Jestillä
+
 Sovellusta testasimme manuaalilla testeillä, jotka oli määritelty zenhubin taskeihin, eli aina kun toiminnallisuus saatiin valmiiksi, se siirrettiin testaus osioon ja kuitattiin valmiiksi vasta kun se oli testattu toimivaksi. Tätä manuaalista testausta suorittivat kaikki tiimissämme, mutta tulimme huomaamaan projektin edetessä, että zenhubin testaus osio paisui viikko viikolta. Meillä olisi ollut tarvetta siis testata enemmän, mutta meillä ei ollut riittävästi aikaa. Itse pyrin pääsäntöisesti testaamaan valmistuneita ominaisuuksia noin kerran viikossa. Testaamisesta aiempaa kokemusta oli kertynyt vain toisen vuoden testaus kurssilta. Cypressia käytettiin kyseisellä kurssilla end to end testien tekemiseen. Paljon ei ollut enää muistissa cypressin toiminnasta, eli aika nollilta joutui aloittaa sen kanssa. Käytin testien tekemiseen yleensä omaa testausbranchia. Projektin aikana sain valmiiksi muutaman end to end testin. Vaikka testejä ei sinällään käytetty sovelluksen kehittämiseen, koska testien avulla ei löytynyt uusia bugeja, niin tällaisten testien kirjoittaminen tulisi olemaan hyödyllistä jos projektia vietäisiin pidemmälle esim. julkaistavaksi asti. Tämä siitä syystä, että kukaan ei jaksa tehdä tällaisia testejä manuaalisesti päivittäin eikä esim. yrityksissä resurssit siihen välttämättä riittäisi. Automaattisia testejä voitaisiin ajastaa käynnistymään päivittäin jolloin saataisiin aina suoraan tieto jos testi epäonnistuu.
 
 Testien kirjoittamisessa tuli vastaan yksi isompi ongelma: Cypress testi ei normaalisti tallenna selaimen local storagen kirjautumistietoja, jolloin testin tekeminen kirjautuneena ei onnistu. Suurin osa sovelluksen toiminnallisuuksista vaati sisään kirjautumisen ja sen takia kirjautuminen sisällytettiin useampaan testiin. Ongelmaa yritimme korjata tallentamalla kirjautumistiedot "snapshottiin" siinä kuitenkaan onnistumatta. Sain ongelman kierrettyä kirjoittamalla monta eri vaihetta yhden testin sisälle kirjautumisen jälkeen. Tämä toimi siitä syystä, että tieto kirjautumisesta nollaantuvat vain eri testien välillä. Tiesin kuitenkin, että tämä ei olisi oikea tapa kirjoittaa testejä, joten perehdyin ongelmaan vielä myöhemmin. 
@@ -118,6 +126,9 @@ Tällä hetkellä suunnitelmissa olisi hakea työtehtäviä todennäköisimmin t
 - Kursseina full stackia ja backendia
 
 - Töitä testaajana tai frontend -kehittäjänä
+
+![072617-14-Endings-Mindfulness](https://user-images.githubusercontent.com/98876593/213157461-63253b08-fd98-4718-bd3a-eb7d340fd21e.jpg)
+
 
 
 
