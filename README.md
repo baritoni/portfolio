@@ -42,7 +42,7 @@ Meidän ryhmäämme kuului aluksi 5 henkilöä, mutta yksi jäi pois matkasta ai
 
 - Uuden tekniikan opettelua
 
-- Lopullisesta sovelluksesta tein itse vain pienen osan
+- Lähinnä apukoodarina, vaikka frontend oli päärooli
 
 Vaikka numeroiden valossa olin menestynyt melko hyvin ohjelmointi kursseilla en silti kokenut olevani ohjelmoinnissa kovin hyvä. Ehkä voisin kuvailla tätä sillä tavalla, että useasti ymmärsin koodia, kykenin muokkaamaan ja soveltamaan valmista koodia, mutta heikkouteni oli oman koodin kirjoittaminen alusta asti. Koska ryhmämme päätyi valitsemaan frontend frameworkiksi Reactin ja itselläni ei ollut siitä mitään aiempaa kokemusta, aloitin projekin opettelemalla Reactia full stack open kurssin tehtäviä suorittamalla. Tähän käytin aikaa 2 viikkoa. Tein lähes kaikki "spiket" jotka minulle oli määritelty zenhubiin, vain pari aivan viimeistä tehtävää jäi kesken. Opin kurssista kyllä Reactia, mutta 2 viikkoa oli hieman liian lyhyt aika itselleni opetella uusi framework. Pidempää aikaa ei tähän ollut projektia silmällä pitäen järkeä käyttää, joten aloitin aloin osallistumaan frontendin koodaamiseen lokakuun loppupuolella. 
 
@@ -58,7 +58,7 @@ Ensimmäisiä sovelluksen osia, joiden tekemiseen osallistuin olivat sovelluksen
 Kuva UserRegisterPage -komponentista
 ![image](https://user-images.githubusercontent.com/98876593/212065587-7b45b103-2963-4004-9a76-81a90f007cb7.png)
 
-Listan lisäys komponenttia tein yhdessä ryhmän toisen frontend -koodarin kanssa, osan siitä parikoodauksena niin että olin itse koneella ja toinen neuvoi ja kommentoi samalla. Tällä tavoin en ollut työskennellyt koskaan aiemmin. Homma toimi suht ok pientä sekoilua lukuunottamatta. Ongelma oli ehkä siinä, että osaamistasossa oli melko suuri ero ja en toisekseen ollut tottunut työskentelemään tällä tavoin, joten se tuntui hieman oudolta. Kyseisessä komponentissa on painike, josta avautuu valikko jolla voi lisätä uuden listan itselle. Itselle täysin uutta asiaa oli mm. backendiin tehtävät pyynnöt axiosin avulla. Lisätty lista näkyy sivulla ja listaa klikkaamalla pääsee katsomaan listan sisältämiä reseptejä.
+Listan lisäys komponenttia tein yhdessä ryhmän toisen frontend -koodarin kanssa, osan siitä parikoodauksena niin että olin itse koneella ja toinen neuvoi ja kommentoi samalla. Tällä tavoin en ollut työskennellyt koskaan aiemmin. Homma toimi suht ok pientä sekoilua lukuunottamatta. Ongelma oli ehkä siinä, että osaamistasossa oli melko suuri ero, eli toiselle koodarille React oli paljon paremmin hallussa ja en toisekseen ollut tottunut työskentelemään tällä tavoin, joten se tuntui hieman oudolta. Kyseisessä komponentissa on painike, josta avautuu valikko jolla voi lisätä uuden listan itselle. Itselle täysin uutta asiaa oli mm. backendiin tehtävät pyynnöt axiosin avulla. Lisätty lista näkyy sivulla ja listaa klikkaamalla pääsee katsomaan listan sisältämiä reseptejä.
 
 Omat listat -sivu valmiissa sovelluksessa
 ![image](https://user-images.githubusercontent.com/98876593/212677249-04644cd4-c728-42d1-a46b-839a37fd0c10.png)
@@ -110,7 +110,6 @@ Yksikkötesti jossa testataan Loading komponentin renderöimää tekstiä
 ![image](https://user-images.githubusercontent.com/98876593/212763102-aad5b9b4-4d34-4b76-9f0f-88d1cbb323b3.png)
 
 <p>&nbsp;</p>
-
 
 # Mitä opin tästä kaikesta?
 
