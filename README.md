@@ -2,7 +2,7 @@
 
 <p>&nbsp;</p>
 
-Toni Luomala
+Toni Luomala <br>
 toni.luomala@protonmail.com
 
 
@@ -33,6 +33,10 @@ Meidän ryhmäämme kuului aluksi 5 henkilöä, mutta yksi jäi pois matkasta ai
 <p>&nbsp;</p>
 
 # Tekniikka (Frontend) 
+
+- Javascript frameworkkina React
+
+- Uuden tekniikan opettelua
 
 Vaikka numeroiden valossa olin menestynyt melko hyvin ohjelmointi kursseilla en silti kokenut olevani ohjelmoinnissa kovin hyvä. Ehkä voisin kuvailla tätä sillä tavalla, että useasti ymmärsin koodia, kykenin muokkaamaan ja soveltamaan valmista koodia, mutta heikkouteni oli oman koodin kirjoittaminen alusta asti. Koska ryhmämme päätyi valitsemaan frontend frameworkiksi Reactin ja itselläni ei ollut siitä mitään aiempaa kokemusta, aloitin projekin opettelemalla Reactia full stack open kurssin tehtäviä suorittamalla. Tähän käytin aikaa 2 viikkoa. Tein lähes kaikki "spiket" jotka minulle oli määritelty zenhubiin, vain pari aivan viimeistä tehtävää jäi kesken. Opin kurssista kyllä Reactia, mutta 2 viikkoa oli hieman liian lyhyt aika itselleni opetella uusi framework. Pidempää aikaa ei tähän ollut projektia silmällä pitäen järkeä käyttää, joten aloitin aloin osallistumaan frontendin koodaamiseen lokakuun loppupuolella. 
 
@@ -68,6 +72,8 @@ Komponentin otsikko, painike ja importoitu ListModal komponentti
 <p>&nbsp;</p>
 
 # Testaus
+
+- Testaussuunnitelman luonti
 
 - Käyttäjätestausta
 
@@ -127,7 +133,7 @@ Tällä hetkellä suunnitelmissa olisi hakea työtehtäviä todennäköisimmin t
 
 - Töitä testaajana tai frontend -kehittäjänä
 
-![072617-14-Endings-Mindfulness](https://user-images.githubusercontent.com/98876593/213157461-63253b08-fd98-4718-bd3a-eb7d340fd21e.jpg)
+
 
 
 
