@@ -66,7 +66,7 @@ Omat listat -sivu valmiissa sovelluksessa
 
 <p>&nbsp;</p>
 
-Alla kuva OwnLists -komponentin koodista. UseEffect on funktio, jonka suoritetaan kerran siinä vaiheessa kun sivu on latautunut 
+Alla kuva OwnLists -komponentin koodista.
 ![image](https://user-images.githubusercontent.com/98876593/212067474-2fcecbbb-01eb-4b4f-828d-c27b0bbe429a.png)
 
 <p>&nbsp;</p>
