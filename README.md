@@ -5,7 +5,7 @@ toni.luomala@protonmail.com
 # Ticorporaten Portfolio
 
 
-Ticorporate on JAMK:in tietojenkäsittely tutkintoon kuuluva n. 4kk:n pituinen projektinhallintaa käsittelevä kurssi, jonka aikana opiskelijat kehittää muutaman hengen ryhmissä joko sovelluksen tai pelin. Ryhmämme kehittämä sovellus on Brita nimeä käyttävä pwa-reseptisovellus.  
+Ticorporate on JAMK:in tietojenkäsittely tutkintoon kuuluva n. 4kk:n pituinen projektinhallintaa käsittelevä kurssi, jonka aikana opiskelijat kehittävät muutaman hengen ryhmissä joko sovelluksen tai pelin. Ryhmämme kehittämä sovellus on Brita nimeä käyttävä pwa-reseptisovellus.  
 
 ![image](https://user-images.githubusercontent.com/98876593/213188151-71da61fa-3cfd-4fcd-9231-0487e4cf2505.png)
 
