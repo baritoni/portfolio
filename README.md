@@ -22,7 +22,7 @@ Ticorporaten alkaessa itseäni kiinnosti frontend, testaus, tietokannat ja ui/ux
 - Perus HTML ja css osaaminen
 - Pilvialustat kurssi samaan aikaan tc:n kanssa
 
-Mikä oli sitten vahvuusalueeni? Missään en kokenut olevani vielä todella hyvä, mutta frontendista oli kokemusta jo Sveltestä ja frontendin toteuttaminen kiiinnosti itseäni edelleen. UI/UX toteutus/suunnittelu kiinnostaa, mutta en koe olevani kovin luova siinä tehtävässä. Ensimmäisen vuoden suoritin Vaasan Ammattikorkeakoulussa, joten ensimmäisen vuoden opintoni poikkesivat JAMK:in vastaavista. Koulun vaihdosta johtuen toisen vuoden kurssit olivat sekoitus ensimmäisen ja toisen vuoden pakollisia kursseja, eikä vapaasti valittaville ja täydentäville jäänyt paljoa tilaa. Ainoa ohjelmointi kursssi toisena vuotena oli Frontendin perusteet. Tavoitteitteekseni asetin itselle oppia koodaamaan paremmmin, lisää testauksesta sekä myös ryhmätyötaitoja.
+Mikä oli sitten vahvuusalueeni? Missään en kokenut olevani vielä todella hyvä, mutta frontendista oli kokemusta jo Sveltestä ja frontendin toteuttaminen kiiinnosti itseäni edelleen. UI/UX toteutus/suunnittelu kiinnostaa, mutta en koe olevani kovin luova siinä tehtävässä. Ensimmäisen vuoden suoritin Vaasan Ammattikorkeakoulussa, joten ensimmäisen vuoden opintoni poikkesivat JAMK:in vastaavista. Koulun vaihdosta johtuen toisen vuoden kurssit olivat sekoitus ensimmäisen ja toisen vuoden pakollisia kursseja, eikä vapaasti valittaville ja täydentäville jäänyt paljoa tilaa. Ainoa ohjelmointi kursssi toisena vuotena oli Frontendin perusteet. Tavoitteekseni asetin itselle oppia koodaamaan paremmmin, lisää testauksesta sekä myös ryhmätyötaitoja.
 
 <p>&nbsp;</p>
 
