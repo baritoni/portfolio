@@ -2,12 +2,13 @@ Toni Luomala <br>
 HTK20S1, AA4498 <br>
 toni.luomala@protonmail.com
 
-# Ticorporate kurssin Portfolio
+# Ticorporaten Portfolio
 
 
 Ticorporate on JAMK:in tietojenkäsittely tutkintoon kuuluva n. 4kk:n pituinen projektinhallintaa käsittelevä kurssi, jonka aikana kehitetään muutaman hengen ryhmässä joko sovellus tai peli. Ryhmämme kehittämä sovellus on Brita nimeä käyttävä reseptisovellus.  
 
-![image](https://user-images.githubusercontent.com/98876593/213166634-cd94a286-5897-47ca-bb5d-a435f7770582.png)
+![image](https://user-images.githubusercontent.com/98876593/213188151-71da61fa-3cfd-4fcd-9231-0487e4cf2505.png)
+
 
 Sovelluksen kotisivut: https://britareseptipankki.wixsite.com/brita
 
