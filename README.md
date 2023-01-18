@@ -9,6 +9,8 @@ Ticorporate on JAMK:in tietojenkäsittely tutkintoon kuuluva n. 4kk:n pituinen p
 
 ![image](https://user-images.githubusercontent.com/98876593/213166634-cd94a286-5897-47ca-bb5d-a435f7770582.png)
 
+sovelluksen kotisivut: https://britareseptipankki.wixsite.com/brita
+
 
 # Lähtötilanne
 
