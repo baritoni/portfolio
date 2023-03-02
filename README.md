@@ -41,7 +41,7 @@ Meidän ryhmäämme kuului aluksi 5 henkilöä, mutta yksi jäi pois matkasta ai
 
 # Tekniikka (Frontend) 
 
-- Javascript kirjastona React
+- JavaScript kirjastona React
 
 - Uuden tekniikan opettelua
 
