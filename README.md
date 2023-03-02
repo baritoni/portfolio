@@ -109,7 +109,7 @@ Yksikkötesti jossa testataan Loading komponentin renderöimää tekstiä
 
 # Mitä opin tästä kaikesta?
 
-Projektissa työskenteleminen oli välillä haasteellista, johtuen pitkälti siitä, että uusien asioiden opetteluun ja ongelmien selvittämiseen kului kohtuullisen paljon aikaa. Projektiin olisi ollut helpompi lähteä mukaan jos käyttämämme tekniikat olisivat olleet itselle ennestään tuttuja. Sain kuitenkin samalla mahdollisuuden oppia uutta. Voin kuitenkin olla tyytyväinen että sain roolit tekniikasta ja testauksesta, koska samat asiat kiinnostavat edelleen myös projektin jälkeen. Ottaen huomioon, että React oli täysin uusi tekniikka itselle olen kyllä oppinut Reactia, mutta koodin tuottaminen on itselleni edelleen hieman hankalaa. Testauksesta opin käyttämään cypressia paremmin, sekä hieman postmanin käyttöä backendin testauksessa. Yksikkötestien kirjoittaminen jäi vähiiin koska aloitin sen vasta projektin loppuvaiheessa ja vastaan tuli teknisiä ongelmia. Tarkoituksena oli kuitenkin kirjoittaa yksikkötestejä jossain vaiheessa projektia.
+Projektissa työskenteleminen oli välillä haasteellista, johtuen pitkälti siitä, että uusien asioiden opetteluun ja ongelmien selvittämiseen kului kohtuullisen paljon aikaa. Projektiin olisi ollut helpompi lähteä mukaan jos käyttämämme tekniikat olisivat olleet itselle ennestään tuttuja. Sain kuitenkin samalla mahdollisuuden oppia uutta. Voin kuitenkin olla tyytyväinen että sain roolit tekniikasta ja testauksesta, koska samat asiat kiinnostavat edelleen myös projektin jälkeen. Ottaen huomioon, että React oli täysin uusi tekniikka itselle olen kyllä oppinut Reactia, mutta koodin tuottaminen on ajoittain itselleni edelleen hieman hankalaa. Testauksesta opin käyttämään cypressia paremmin, sekä hieman postmanin käyttöä backendin testauksessa. Yksikkötestien kirjoittaminen jäi vähiiin koska aloitin sen vasta projektin loppuvaiheessa ja vastaan tuli teknisiä ongelmia. Tarkoituksena oli kuitenkin kirjoittaa yksikkötestejä jossain vaiheessa projektia.
 
 Jokaisena päivänä tein, tai ainakin yritin tehdä jotain projektimme eteen. Olisin toivonut saavani frontendissa vähän enemmän itsenäisesti aikaiseksi, mutta tilanne oli siinä mielessä vähän hankala kun tekniikat olivat itselle uusia. Projektin aikana selkeni kuitenkin ajatus siitä miten tärkeää tiedonhakutaito on tällaisessa työssä. Toisekseen koodaamisen osalta tajusin paremmin miten tärkeää console loggaaminen on, vaikka sen kyllä tiedostin jo aiemminkin, niin kurssin aikana sen tärkeys erityisesti korostui. Kommunikointitaitoja ei voi kyllin korostaa. Kommunikointi ei tiimissämme varmasti ollut täydellistä, mutta onnistui kuitenkin sen verran hyvin, että saimme asiat yleensä hoidettua keskenään. Sain myös työtehtävieni kautta mahdollisia ideoita opinnäytetyön aiheeksi. 
 
@@ -121,7 +121,7 @@ Jokaisena päivänä tein, tai ainakin yritin tehdä jotain projektimme eteen. O
 
 - Lisää testauksesta. Cyppressia olin käyttänyt aiemmin, mutta melko vähän, joten sain siitä lisää kokemusta
 
-- Tiimityöskentely voi olla välillä vaikeaa
+- Tiimityöskentely voi olla välillä vaikeaa (erilaiset luonteet pienessä tiimissä voi vaikeuttaa kommunikointia ajoittain)
 
 - Scrumin käytänteet
 
@@ -131,14 +131,15 @@ Jokaisena päivänä tein, tai ainakin yritin tehdä jotain projektimme eteen. O
 
 Tällä hetkellä suunnitelmissa olisi hakea työtehtäviä todennäköisimmin testaajana eli sain kurssista vahvistusta sille minkälaisiin työtehtäviin aion hakeautua. Jatkossa on tarkoitus opiskella backend sovelluskehitystä ja syventää osaamista frontendin parissa käymällä full stack open kurssia perusteellisemmin kuin se oli mahdollista ticorporaten aikana. Ticorporate oli enimmäkseen miellyttävä kurssi jonka aikana sai kokemusta asioista, joita ei ole ollut mahdollista muilla kursseilla saada.
 
-- Samat asiat kiinnostaa edelleen
+- Samat asiat kiinnostaa edelleen (eli tekninnen toteutus, koodaaminen ja testaaminen)
 
 - Opinnäytetyö ja harjoittelu
 
 - Kursseina full stackia ja backendia jatkossakin
 
-- Töitä mahdollisesti testaajana tai frontend -kehittäjänä
+- Töitä mahdollisesti testaajana tai frontend/backend -kehittäjänä
 
+- Tuleva opinnäytetyöni käsittelee Reactin yksikkötestaamista
 
 
 
